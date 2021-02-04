@@ -35,7 +35,7 @@ rasterio==1.1.8
 rasterstats==0.13.1
 requests==2.25.1
 requests-futures==0.9.7
-scipy==1.2.1
+scipy==1.6.0
 Shapely==1.6.4.post2
 simplejson==3.16.0
 six==1.12.0
