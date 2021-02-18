@@ -13,7 +13,7 @@ cryptography==2.1.4
 Fiona==1.8.18
 Flask==1.1.2
 geopandas==0.8.2
-idna==2.6
+idna==3.1
 itsdangerous==1.1.0
 Jinja2==2.11.3
 keyring==10.6.0
